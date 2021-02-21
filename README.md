@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning JavaScript
 - 👯 I have experiences with several programming languages: C, C++, Java, SQL
+- ⚡ I have a little bit knowledge about: Tensorflow, Keras libraries.
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=cemalihsan&show_icons=true&theme=radical&count_private=true&hide=contribs,issues"  alt="cemalihsan's github stats"/>
@@ -14,7 +15,7 @@
 [![linkedin](https://img.shields.io/badge/-cemalsofuoglu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemalsofuoglu/)
 
 <!--
-**cemalihsan/CemalIhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cemalihsan/cemalihsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
