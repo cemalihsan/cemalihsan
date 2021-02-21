@@ -7,7 +7,7 @@
 
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-cemalihsan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:cemalihsan@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/cemalsofuoglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cemalsofuoglu/)
+[![linkedin](https://img.shields.io/badge/-cemalsofuoglu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemalsofuoglu/)
 
 <!--
 **cemalihsan/CemalIhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
