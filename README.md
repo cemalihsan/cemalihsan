@@ -1,12 +1,13 @@
 <img src="https://github.com/cemalihsan/cemalihsan/blob/main/hi.png">
 
-<!--
-**cemalihsan/CemalIhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=cemalihsan&show_icons=true&count_private=true&hide=contribs,issues"  alt="cemalihsan's github stats"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalihsan&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
+
+<!--
+**cemalihsan/CemalIhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
