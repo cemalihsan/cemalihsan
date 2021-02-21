@@ -5,7 +5,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalihsan&theme=cobalt&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
-### 📫 &nbsp;Connect with Me
+### 📫 &nbsp;Contact with Me
 [![gmail](https://img.shields.io/badge/-cemalihsan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:cemalihsan@gmail.com)
 [![linkedin](https://img.shields.io/badge/-cemalsofuoglu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemalsofuoglu/)
 
