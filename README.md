@@ -13,10 +13,12 @@
 **cemalihsan/CemalIhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning JavaScript
 - 👯 I have experiences with several programming languages: C, C++, Java, SQL
+- <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
