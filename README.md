@@ -1,5 +1,9 @@
 <img src="https://github.com/cemalihsan/cemalihsan/blob/main/hi.png">
 
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning JavaScript
+- 👯 I have experiences with several programming languages: C, C++, Java, SQL
+
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=cemalihsan&show_icons=true&theme=radical&count_private=true&hide=contribs,issues"  alt="cemalihsan's github stats"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalihsan&theme=cobalt&layout=compact&hide=html,css" alt="My Top Langs" />
@@ -14,10 +18,6 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning JavaScript
-- 👯 I have experiences with several programming languages: C, C++, Java, SQL
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
