@@ -3,8 +3,10 @@
 <!--
 **cemalihsan/CemalIhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Cemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cemalihsan)](https://github.com/cemalihsan/github-readme-stats)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=cemalihsan&show_icons=true&theme=radical)
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=cemalihsan&show_icons=true&count_private=true&hide=contribs,issues"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalihsan&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
 
 Here are some ideas to get you started:
 
