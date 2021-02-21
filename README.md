@@ -2,7 +2,7 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=cemalihsan&show_icons=true&theme=radical&count_private=true&hide=contribs,issues"  alt="cemalihsan's github stats"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalihsan&layout=compact&hide=html,css" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemalihsan&theme=radical&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
 
